@@ -21,12 +21,11 @@ The system targets use cases such as:
 
 ### Main Hero Preview
 
-![Website Main Highlight](src/assets/hero-satellite.jpg)
+![Website Main Highlight](src/assets/dashboard-preview.png)
 
 ### Thermal Super-Resolution Preview
 
-![Before Super-Resolution](src/assets/before.png)
-![After Super-Resolution](src/assets/after.png)
+![Super-Resolution](src/assets/Output.png)
 
 ## Problem Statement
 
