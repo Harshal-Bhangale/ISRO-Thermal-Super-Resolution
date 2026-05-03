@@ -17,6 +17,17 @@ The system targets use cases such as:
 - Disaster risk management (hotspots, early alerts)
 - Water and environmental monitoring
 
+## Website Highlights
+
+### Main Hero Preview
+
+![Website Main Highlight](src/assets/hero-satellite.jpg)
+
+### Thermal Super-Resolution Preview
+
+![Before Super-Resolution](src/assets/before.png)
+![After Super-Resolution](src/assets/after.png)
+
 ## Problem Statement
 
 Thermal bands usually have lower spatial resolution than optical bands. Direct upscaling can introduce artifacts and distort true temperature values.
